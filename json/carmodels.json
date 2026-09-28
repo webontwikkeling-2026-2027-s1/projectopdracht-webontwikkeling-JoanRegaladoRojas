@@ -1,223 +1,223 @@
 [
   {
     "id": 101,
-    "naam": "Golf",
-    "beschrijving": "De Volkswagen Golf is al decennia lang de referentie in het hatchbacksegment dankzij zijn afwerking, rijcomfort en brede motorengamma.",
-    "vermogenPk": 130,
-    "beschikbaar": true,
-    "marktIntroductie": "2019-10-01",
-    "afbeeldingUrl": "https://example.com/modellen/golf.jpg",
-    "carrosserie": "Hatchback",
-    "kleuren": [
-      "wit",
-      "grijs",
-      "zwart",
-      "blauw"
+    "name": "Golf",
+    "description": "The Volkswagen Golf has been the reference point in the hatchback segment for decades thanks to its build quality, ride comfort and wide engine lineup.",
+    "horsepower": 130,
+    "available": true,
+    "releaseDate": "2019-10-01",
+    "imageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/golf8.jpg",
+    "bodyType": "Hatchback",
+    "colors": [
+      "white",
+      "gray",
+      "black",
+      "blue"
     ],
-    "merkId": 1,
-    "merk": {
+    "brandId": 1,
+    "brand": {
       "id": 1,
-      "naam": "Volkswagen",
-      "land": "Duitsland",
-      "logoUrl": "images/volkswagen.jpg"
+      "name": "Volkswagen",
+      "country": "Germany",
+      "logoUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/volkswagen.jpg"
     }
   },
   {
     "id": 103,
-    "naam": "Corolla",
-    "beschrijving": "De Toyota Corolla is een van de best verkochte wagens ter wereld en staat bekend om zijn betrouwbare hybride aandrijflijn en lage verbruikscijfers.",
-    "vermogenPk": 122,
-    "beschikbaar": true,
-    "marktIntroductie": "2019-01-20",
-    "afbeeldingUrl": "https://example.com/modellen/corolla.jpg",
-    "carrosserie": "Sedan",
-    "kleuren": [
-      "rood",
-      "wit",
-      "grijs"
+    "name": "Corolla",
+    "description": "The Toyota Corolla is one of the best selling cars in the world and is known for its reliable hybrid drivetrain and low fuel consumption.",
+    "horsepower": 122,
+    "available": true,
+    "releaseDate": "2019-01-20",
+    "imageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/corolla.jpg",
+    "bodyType": "Sedan",
+    "colors": [
+      "red",
+      "white",
+      "gray"
     ],
-    "merkId": 2,
-    "merk": {
+    "brandId": 2,
+    "brand": {
       "id": 2,
-      "naam": "Toyota",
-      "land": "Japan",
-      "logoUrl": "images/toyota.jpg"
+      "name": "Toyota",
+      "country": "Japan",
+      "logoUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/toyota.jpg"
     }
   },
   {
     "id": 106,
-    "naam": "Mustang",
-    "beschrijving": "De Ford Mustang is een Amerikaanse muscle car en een van de meest iconische sportwagens ter wereld, met een herkenbaar geluid en agressieve vormgeving.",
-    "vermogenPk": 449,
-    "beschikbaar": true,
-    "marktIntroductie": "2017-06-01",
-    "afbeeldingUrl": "https://example.com/modellen/mustang.jpg",
-    "carrosserie": "Coupé",
-    "kleuren": [
-      "rood",
-      "zwart",
-      "geel"
+    "name": "Mustang",
+    "description": "The Ford Mustang is an American muscle car and one of the most iconic sports cars in the world, with a recognizable sound and aggressive styling.",
+    "horsepower": 449,
+    "available": true,
+    "releaseDate": "2017-06-01",
+    "imageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/msutang.jpg",
+    "bodyType": "Coupe",
+    "colors": [
+      "red",
+      "black",
+      "yellow"
     ],
-    "merkId": 3,
-    "merk": {
+    "brandId": 3,
+    "brand": {
       "id": 3,
-      "naam": "Ford",
-      "land": "Verenigde Staten",
-      "logoUrl": "images/ford.png"
+      "name": "Ford",
+      "country": "United States",
+      "logoUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/ford.jpg"
     }
   },
   {
     "id": 107,
-    "naam": "3 Serie",
-    "beschrijving": "De BMW 3 Serie is een sportieve sedan die al jaren de referentie is in zijn segment op vlak van rijplezier en achterwielaandrijving.",
-    "vermogenPk": 258,
-    "beschikbaar": true,
-    "marktIntroductie": "2019-03-01",
-    "afbeeldingUrl": "https://example.com/modellen/3serie.jpg",
-    "carrosserie": "Sedan",
-    "kleuren": [
-      "zwart",
-      "wit",
-      "blauw"
+    "name": "3 Series",
+    "description": "The BMW 3 Series is a sporty sedan that has been the benchmark in its segment for driving pleasure and rear wheel drive for years.",
+    "horsepower": 258,
+    "available": true,
+    "releaseDate": "2019-03-01",
+    "imageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/3serie.jpg",
+    "bodyType": "Sedan",
+    "colors": [
+      "black",
+      "white",
+      "blue"
     ],
-    "merkId": 4,
-    "merk": {
+    "brandId": 4,
+    "brand": {
       "id": 4,
-      "naam": "BMW",
-      "land": "Duitsland",
-      "logoUrl": "images/bmw.jpg"
+      "name": "BMW",
+      "country": "Germany",
+      "logoUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/bmw.jpg"
     }
   },
   {
     "id": 109,
-    "naam": "A4",
-    "beschrijving": "De Audi A4 is een premium sedan die staat voor strakke vormgeving, quattro vierwielaandrijving en een modern digitaal interieur.",
-    "vermogenPk": 204,
-    "beschikbaar": true,
-    "marktIntroductie": "2019-09-01",
-    "afbeeldingUrl": "https://example.com/modellen/a4.jpg",
-    "carrosserie": "Sedan",
-    "kleuren": [
-      "zilver",
-      "zwart",
-      "blauw"
+    "name": "A4",
+    "description": "The Audi A4 is a premium sedan that stands for sharp design, quattro all wheel drive and a modern digital interior.",
+    "horsepower": 204,
+    "available": true,
+    "releaseDate": "2019-09-01",
+    "imageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/a5.jpg",
+    "bodyType": "Sedan",
+    "colors": [
+      "silver",
+      "black",
+      "blue"
     ],
-    "merkId": 5,
-    "merk": {
+    "brandId": 5,
+    "brand": {
       "id": 5,
-      "naam": "Audi",
-      "land": "Duitsland",
-      "logoUrl": "images/audi.jpg"
+      "name": "Audi",
+      "country": "Germany",
+      "logoUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/audi.jpg"
     }
   },
   {
     "id": 111,
-    "naam": "C Klasse",
-    "beschrijving": "De Mercedes Benz C Klasse is een luxueuze sedan die comfort, veiligheidstechnologie en een verfijnde afwerking combineert in het middensegment.",
-    "vermogenPk": 204,
-    "beschikbaar": true,
-    "marktIntroductie": "2021-05-10",
-    "afbeeldingUrl": "https://example.com/modellen/cklasse.jpg",
-    "carrosserie": "Sedan",
-    "kleuren": [
-      "zwart",
-      "zilver",
-      "wit"
+    "name": "C Class",
+    "description": "The Mercedes Benz C Class is a luxurious sedan that combines comfort, safety technology and refined finishing in the midsize segment.",
+    "horsepower": 204,
+    "available": true,
+    "releaseDate": "2021-05-10",
+    "imageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/cclass.jpg",
+    "bodyType": "Sedan",
+    "colors": [
+      "black",
+      "silver",
+      "white"
     ],
-    "merkId": 6,
-    "merk": {
+    "brandId": 6,
+    "brand": {
       "id": 6,
-      "naam": "Mercedes-Benz",
-      "land": "Duitsland",
-      "logoUrl": "images/mercedes.png"
+      "name": "Mercedes-Benz",
+      "country": "Germany",
+      "logoUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/mercedes.png"
     }
   },
   {
     "id": 113,
-    "naam": "Clio",
-    "beschrijving": "De Renault Clio is een compacte en zuinige stadswagen die al jaren zeer populair is in Europa dankzij zijn vlotte rijgedrag en betaalbare prijs.",
-    "vermogenPk": 100,
-    "beschikbaar": true,
-    "marktIntroductie": "2019-06-15",
-    "afbeeldingUrl": "https://example.com/modellen/clio.jpg",
-    "carrosserie": "Hatchback",
-    "kleuren": [
-      "geel",
-      "wit",
-      "grijs"
+    "name": "Clio",
+    "description": "The Renault Clio is a compact and economical city car that has been very popular in Europe for years thanks to its smooth ride and affordable price.",
+    "horsepower": 100,
+    "available": true,
+    "releaseDate": "2019-06-15",
+    "imageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/clio.jpg",
+    "bodyType": "Hatchback",
+    "colors": [
+      "yellow",
+      "white",
+      "gray"
     ],
-    "merkId": 7,
-    "merk": {
+    "brandId": 7,
+    "brand": {
       "id": 7,
-      "naam": "Renault",
-      "land": "Frankrijk",
-      "logoUrl": "images/renault.jpg"
+      "name": "Renault",
+      "country": "France",
+      "logoUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/renault.jpg"
     }
   },
   {
     "id": 126,
-    "naam": "208",
-    "beschrijving": "De Peugeot 208 is een compacte stadswagen die ook als volledig elektrische versie verkrijgbaar is en opvalt door zijn scherpe koplampsignatuur.",
-    "vermogenPk": 100,
-    "beschikbaar": true,
-    "marktIntroductie": "2020-01-15",
-    "afbeeldingUrl": "https://example.com/modellen/208.jpg",
-    "carrosserie": "Hatchback",
-    "kleuren": [
-      "rood",
-      "wit",
-      "grijs"
+    "name": "208",
+    "description": "The Peugeot 208 is a compact city car also available as a fully electric version, standing out with its sharp headlight signature.",
+    "horsepower": 100,
+    "available": true,
+    "releaseDate": "2020-01-15",
+    "imageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/208.jpg",
+    "bodyType": "Hatchback",
+    "colors": [
+      "red",
+      "white",
+      "gray"
     ],
-    "merkId": 8,
-    "merk": {
+    "brandId": 8,
+    "brand": {
       "id": 8,
-      "naam": "Peugeot",
-      "land": "Frankrijk",
-      "logoUrl": "images/peugeot.jpg"
+      "name": "Peugeot",
+      "country": "France",
+      "logoUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/peugeot.jpg"
     }
   },
   {
     "id": 116,
-    "naam": "Sportage",
-    "beschrijving": "De Kia Sportage is een compacte SUV die opvalt door zijn gedurfde design, ruime uitrusting en lange garantieperiode van zeven jaar.",
-    "vermogenPk": 180,
-    "beschikbaar": true,
-    "marktIntroductie": "2022-01-15",
-    "afbeeldingUrl": "https://example.com/modellen/sportage.jpg",
-    "carrosserie": "SUV",
-    "kleuren": [
-      "groen",
-      "wit",
-      "grijs"
+    "name": "Sportage",
+    "description": "The Kia Sportage is a compact SUV that stands out with its bold design, generous equipment level and a seven year warranty.",
+    "horsepower": 180,
+    "available": true,
+    "releaseDate": "2022-01-15",
+    "imageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/sportage.jpg",
+    "bodyType": "SUV",
+    "colors": [
+      "green",
+      "white",
+      "gray"
     ],
-    "merkId": 9,
-    "merk": {
+    "brandId": 9,
+    "brand": {
       "id": 9,
-      "naam": "Kia",
-      "land": "Zuid-Korea",
-      "logoUrl": "images/kia.jpg"
+      "name": "Kia",
+      "country": "South Korea",
+      "logoUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/kia.jpg"
     }
   },
   {
     "id": 117,
-    "naam": "Tucson",
-    "beschrijving": "De Hyundai Tucson is een populaire compacte SUV met een opvallend design en een breed gamma aan hybride en plug in hybride motoren.",
-    "vermogenPk": 230,
-    "beschikbaar": true,
-    "marktIntroductie": "2021-07-01",
-    "afbeeldingUrl": "https://example.com/modellen/tucson.jpg",
-    "carrosserie": "SUV",
-    "kleuren": [
-      "rood",
-      "zwart",
-      "wit"
+    "name": "Tucson",
+    "description": "The Hyundai Tucson is a popular compact SUV with striking design and a wide range of hybrid and plug in hybrid engines.",
+    "horsepower": 230,
+    "available": true,
+    "releaseDate": "2021-07-01",
+    "imageUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/tucson.jpg",
+    "bodyType": "SUV",
+    "colors": [
+      "red",
+      "black",
+      "white"
     ],
-    "merkId": 10,
-    "merk": {
+    "brandId": 10,
+    "brand": {
       "id": 10,
-      "naam": "Hyundai",
-      "land": "Zuid-Korea",
-      "logoUrl": "images/hyundai.jpg"
+      "name": "Hyundai",
+      "country": "South Korea",
+      "logoUrl": "https://raw.githubusercontent.com/webontwikkeling-2026-2027-s1/projectopdracht-webontwikkeling-JoanRegaladoRojas/refs/heads/main/img/hyundai.jpg"
     }
   }
 ]
