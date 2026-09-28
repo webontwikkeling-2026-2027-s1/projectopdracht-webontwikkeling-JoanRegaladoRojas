@@ -1,0 +1,223 @@
+[
+  {
+    "id": 101,
+    "naam": "Golf",
+    "beschrijving": "De Volkswagen Golf is al decennia lang de referentie in het hatchbacksegment dankzij zijn afwerking, rijcomfort en brede motorengamma.",
+    "vermogenPk": 130,
+    "beschikbaar": true,
+    "marktIntroductie": "2019-10-01",
+    "afbeeldingUrl": "https://example.com/modellen/golf.jpg",
+    "carrosserie": "Hatchback",
+    "kleuren": [
+      "wit",
+      "grijs",
+      "zwart",
+      "blauw"
+    ],
+    "merkId": 1,
+    "merk": {
+      "id": 1,
+      "naam": "Volkswagen",
+      "land": "Duitsland",
+      "logoUrl": "images/volkswagen.jpg"
+    }
+  },
+  {
+    "id": 103,
+    "naam": "Corolla",
+    "beschrijving": "De Toyota Corolla is een van de best verkochte wagens ter wereld en staat bekend om zijn betrouwbare hybride aandrijflijn en lage verbruikscijfers.",
+    "vermogenPk": 122,
+    "beschikbaar": true,
+    "marktIntroductie": "2019-01-20",
+    "afbeeldingUrl": "https://example.com/modellen/corolla.jpg",
+    "carrosserie": "Sedan",
+    "kleuren": [
+      "rood",
+      "wit",
+      "grijs"
+    ],
+    "merkId": 2,
+    "merk": {
+      "id": 2,
+      "naam": "Toyota",
+      "land": "Japan",
+      "logoUrl": "images/toyota.jpg"
+    }
+  },
+  {
+    "id": 106,
+    "naam": "Mustang",
+    "beschrijving": "De Ford Mustang is een Amerikaanse muscle car en een van de meest iconische sportwagens ter wereld, met een herkenbaar geluid en agressieve vormgeving.",
+    "vermogenPk": 449,
+    "beschikbaar": true,
+    "marktIntroductie": "2017-06-01",
+    "afbeeldingUrl": "https://example.com/modellen/mustang.jpg",
+    "carrosserie": "Coupé",
+    "kleuren": [
+      "rood",
+      "zwart",
+      "geel"
+    ],
+    "merkId": 3,
+    "merk": {
+      "id": 3,
+      "naam": "Ford",
+      "land": "Verenigde Staten",
+      "logoUrl": "images/ford.png"
+    }
+  },
+  {
+    "id": 107,
+    "naam": "3 Serie",
+    "beschrijving": "De BMW 3 Serie is een sportieve sedan die al jaren de referentie is in zijn segment op vlak van rijplezier en achterwielaandrijving.",
+    "vermogenPk": 258,
+    "beschikbaar": true,
+    "marktIntroductie": "2019-03-01",
+    "afbeeldingUrl": "https://example.com/modellen/3serie.jpg",
+    "carrosserie": "Sedan",
+    "kleuren": [
+      "zwart",
+      "wit",
+      "blauw"
+    ],
+    "merkId": 4,
+    "merk": {
+      "id": 4,
+      "naam": "BMW",
+      "land": "Duitsland",
+      "logoUrl": "images/bmw.jpg"
+    }
+  },
+  {
+    "id": 109,
+    "naam": "A4",
+    "beschrijving": "De Audi A4 is een premium sedan die staat voor strakke vormgeving, quattro vierwielaandrijving en een modern digitaal interieur.",
+    "vermogenPk": 204,
+    "beschikbaar": true,
+    "marktIntroductie": "2019-09-01",
+    "afbeeldingUrl": "https://example.com/modellen/a4.jpg",
+    "carrosserie": "Sedan",
+    "kleuren": [
+      "zilver",
+      "zwart",
+      "blauw"
+    ],
+    "merkId": 5,
+    "merk": {
+      "id": 5,
+      "naam": "Audi",
+      "land": "Duitsland",
+      "logoUrl": "images/audi.jpg"
+    }
+  },
+  {
+    "id": 111,
+    "naam": "C Klasse",
+    "beschrijving": "De Mercedes Benz C Klasse is een luxueuze sedan die comfort, veiligheidstechnologie en een verfijnde afwerking combineert in het middensegment.",
+    "vermogenPk": 204,
+    "beschikbaar": true,
+    "marktIntroductie": "2021-05-10",
+    "afbeeldingUrl": "https://example.com/modellen/cklasse.jpg",
+    "carrosserie": "Sedan",
+    "kleuren": [
+      "zwart",
+      "zilver",
+      "wit"
+    ],
+    "merkId": 6,
+    "merk": {
+      "id": 6,
+      "naam": "Mercedes-Benz",
+      "land": "Duitsland",
+      "logoUrl": "images/mercedes.png"
+    }
+  },
+  {
+    "id": 113,
+    "naam": "Clio",
+    "beschrijving": "De Renault Clio is een compacte en zuinige stadswagen die al jaren zeer populair is in Europa dankzij zijn vlotte rijgedrag en betaalbare prijs.",
+    "vermogenPk": 100,
+    "beschikbaar": true,
+    "marktIntroductie": "2019-06-15",
+    "afbeeldingUrl": "https://example.com/modellen/clio.jpg",
+    "carrosserie": "Hatchback",
+    "kleuren": [
+      "geel",
+      "wit",
+      "grijs"
+    ],
+    "merkId": 7,
+    "merk": {
+      "id": 7,
+      "naam": "Renault",
+      "land": "Frankrijk",
+      "logoUrl": "images/renault.jpg"
+    }
+  },
+  {
+    "id": 126,
+    "naam": "208",
+    "beschrijving": "De Peugeot 208 is een compacte stadswagen die ook als volledig elektrische versie verkrijgbaar is en opvalt door zijn scherpe koplampsignatuur.",
+    "vermogenPk": 100,
+    "beschikbaar": true,
+    "marktIntroductie": "2020-01-15",
+    "afbeeldingUrl": "https://example.com/modellen/208.jpg",
+    "carrosserie": "Hatchback",
+    "kleuren": [
+      "rood",
+      "wit",
+      "grijs"
+    ],
+    "merkId": 8,
+    "merk": {
+      "id": 8,
+      "naam": "Peugeot",
+      "land": "Frankrijk",
+      "logoUrl": "images/peugeot.jpg"
+    }
+  },
+  {
+    "id": 116,
+    "naam": "Sportage",
+    "beschrijving": "De Kia Sportage is een compacte SUV die opvalt door zijn gedurfde design, ruime uitrusting en lange garantieperiode van zeven jaar.",
+    "vermogenPk": 180,
+    "beschikbaar": true,
+    "marktIntroductie": "2022-01-15",
+    "afbeeldingUrl": "https://example.com/modellen/sportage.jpg",
+    "carrosserie": "SUV",
+    "kleuren": [
+      "groen",
+      "wit",
+      "grijs"
+    ],
+    "merkId": 9,
+    "merk": {
+      "id": 9,
+      "naam": "Kia",
+      "land": "Zuid-Korea",
+      "logoUrl": "images/kia.jpg"
+    }
+  },
+  {
+    "id": 117,
+    "naam": "Tucson",
+    "beschrijving": "De Hyundai Tucson is een populaire compacte SUV met een opvallend design en een breed gamma aan hybride en plug in hybride motoren.",
+    "vermogenPk": 230,
+    "beschikbaar": true,
+    "marktIntroductie": "2021-07-01",
+    "afbeeldingUrl": "https://example.com/modellen/tucson.jpg",
+    "carrosserie": "SUV",
+    "kleuren": [
+      "rood",
+      "zwart",
+      "wit"
+    ],
+    "merkId": 10,
+    "merk": {
+      "id": 10,
+      "naam": "Hyundai",
+      "land": "Zuid-Korea",
+      "logoUrl": "images/hyundai.jpg"
+    }
+  }
+]

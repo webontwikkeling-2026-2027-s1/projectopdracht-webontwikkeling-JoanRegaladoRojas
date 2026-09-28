@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Volkswagen",
+    "description": "Volkswagen is a German car manufacturer founded in 1937 that is known worldwide for reliable and practical mass market vehicles, ranging from compact hatchbacks to electric models.",
+    "foundedYear": 1937,
+    "active": true,
+    "foundedDate": "1937-05-28",
+    "logoUrl": "https://raw.githubusercontent.com/joanregalado/dataset-webontwikkeling-2026-2027/refs/heads/main/volkswagen.jpg",
+    "country": "Germany",
+    "specialties": ["compact cars", "electric cars", "family cars"]
+  },
+  {
+    "id": 2,
+    "name": "Toyota",
+    "description": "Toyota is a Japanese car manufacturer regarded as a pioneer in hybrid technology and has been one of the largest and most reliable brands in the world for decades.",
+    "foundedYear": 1937,
+    "active": true,
+    "foundedDate": "1937-08-28",
+    "logoUrl": "https://raw.githubusercontent.com/joanregalado/dataset-webontwikkeling-2026-2027/refs/heads/main/toyota.jpg",
+    "country": "Japan",
+    "specialties": ["hybrid cars", "reliability", "SUVs"]
+  },
+  {
+    "id": 3,
+    "name": "Ford",
+    "description": "Ford is an American car manufacturer that popularized the assembly line in the early twentieth century and is still known today for its pickup trucks and sporty models.",
+    "foundedYear": 1903,
+    "active": true,
+    "foundedDate": "1903-06-16",
+    "logoUrl": "https://raw.githubusercontent.com/joanregalado/dataset-webontwikkeling-2026-2027/refs/heads/main/ford.jpg",
+    "country": "United States",
+    "specialties": ["pickup trucks", "sports cars", "vans"]
+  },
+  {
+    "id": 4,
+    "name": "BMW",
+    "description": "BMW is a German premium brand known for its sporty driving behavior, rear wheel drive and a strong focus on engineering and luxury finishing.",
+    "foundedYear": 1916,
+    "active": true,
+    "foundedDate": "1916-03-07",
+    "logoUrl": "https://example.com/logos/bmw.png",
+    "country": "Germany",
+    "specialties": ["premium cars", "sports cars", "electric cars"]
+  },
+  {
+    "id": 5,
+    "name": "Audi",
+    "description": "Audi is a German premium brand best known for its quattro all wheel drive system, sharp design language and advanced interior technology.",
+    "foundedYear": 1909,
+    "active": true,
+    "foundedDate": "1909-07-16",
+    "logoUrl": "https://example.com/logos/audi.png",
+    "country": "Germany",
+    "specialties": ["quattro technology", "premium cars", "electric cars"]
+  },
+  {
+    "id": 6,
+    "name": "Mercedes-Benz",
+    "description": "Mercedes Benz is a German luxury brand that is considered one of the oldest car manufacturers in the world and sets the standard in comfort, safety and finishing.",
+    "foundedYear": 1926,
+    "active": true,
+    "foundedDate": "1926-06-28",
+    "logoUrl": "https://example.com/logos/mercedes.png",
+    "country": "Germany",
+    "specialties": ["luxury cars", "safety", "electric cars"]
+  },
+  {
+    "id": 7,
+    "name": "Renault",
+    "description": "Renault is a French car manufacturer with a long history in Formula 1 and a strong lineup of compact and electric city cars.",
+    "foundedYear": 1899,
+    "active": true,
+    "foundedDate": "1899-02-25",
+    "logoUrl": "https://example.com/logos/renault.png",
+    "country": "France",
+    "specialties": ["city cars", "electric cars", "family cars"]
+  },
+  {
+    "id": 8,
+    "name": "Peugeot",
+    "description": "Peugeot is a French car brand known for its iconic lion logo, comfortable ride quality and modern interior design.",
+    "foundedYear": 1810,
+    "active": true,
+    "foundedDate": "1896-01-01",
+    "logoUrl": "https://example.com/logos/peugeot.png",
+    "country": "France",
+    "specialties": ["city cars", "comfort", "SUVs"]
+  },
+  {
+    "id": 9,
+    "name": "Kia",
+    "description": "Kia is a South Korean car brand that has grown enormously in recent years thanks to a strong price to quality ratio and an extensive warranty on its models.",
+    "foundedYear": 1944,
+    "active": true,
+    "foundedDate": "1944-12-01",
+    "logoUrl": "https://example.com/logos/kia.png",
+    "country": "South Korea",
+    "specialties": ["value for money", "electric cars", "SUVs"]
+  },
+  {
+    "id": 10,
+    "name": "Hyundai",
+    "description": "Hyundai is a South Korean car brand that, besides affordable models, has also built a strong reputation in electric vehicles and hydrogen technology.",
+    "foundedYear": 1967,
+    "active": true,
+    "foundedDate": "1967-12-29",
+    "logoUrl": "https://example.com/logos/hyundai.png",
+    "country": "South Korea",
+    "specialties": ["electric cars", "hydrogen technology", "SUVs"]
+  }
+]
